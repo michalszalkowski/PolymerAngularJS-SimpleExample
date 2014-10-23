@@ -1,0 +1,11 @@
+{
+  "name": "AnguPolyT1",
+  "version": "0.0.1",
+  "authors": [
+    "szalek <szalek@btbw.pl>"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.4.2",
+    "angular": "~1.3.0"
+  }
+}
